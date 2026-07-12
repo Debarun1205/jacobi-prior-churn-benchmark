@@ -1,0 +1,9 @@
+,Jacobian/Jacobi-Prior (closed-form),Random Forest (baseline)
+ROC-AUC,0.6503,0.7066
+PR-AUC,0.1754,0.3046
+Accuracy@0.5,0.9017,0.9053
+Precision@0.5,0.0,0.557
+Recall@0.5,0.0,0.1239
+F1@0.5,0.0,0.2028
+Fit time (s),0.0092,21.5238
+Inference time (s),0.0001,0.4734
